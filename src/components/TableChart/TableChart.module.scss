@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Montserrat:ital,wght@0,504;1,504&display=swap');
+.table-chart {
+    width: 1200px;
+    height: 554px;
+}
+.nav-coin-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Inter", sans-serif;
+    flex: 1;
+
+}
+
+// .nav-cl-coin-info{
+//     flex: 1; /* Các cột còn lại chia đều không gian còn lại */
+//       padding: 10px; /* Thêm padding nếu cần thiết */
+//       background-color: lightblue !important;
+// }
+
+// .nav-cl-icon{
+//     flex: 0 20px; /* Cột đầu tiên có chiều rộng là 50px, không co giãn hoặc co lại */
+//       background-color: rgb(151, 73, 73);
+//       color: #b42121;
+// }

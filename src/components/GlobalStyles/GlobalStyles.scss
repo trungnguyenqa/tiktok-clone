@@ -1,0 +1,30 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+// <uniquifier>: Use a unique and descriptive class name
+
+// <weight>: Use a value from 100 to 900
+:root {
+    --primary:#515151;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #28014F;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+    color:  #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+;
+}
